@@ -10,6 +10,7 @@ https://www.notion.so/Advanced-ML-9c5b7c737db74d1da6c424c093b58198
 # app icon
 
 https://www.freepik.com/
+
 https://makeappicon.com/
 
 # Model Zoo
