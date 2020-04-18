@@ -3,6 +3,8 @@
 # How to make `pre-trained model` to `ML model`
 
 # Link
+
+https://www.notion.so/Python-mlmodel-converter-21320d7b1af2491bab1be1069c944525
 https://www.notion.so/Advanced-ML-9c5b7c737db74d1da6c424c093b58198
 
 ### Necessary files to make MLModel which will be used on App Development
