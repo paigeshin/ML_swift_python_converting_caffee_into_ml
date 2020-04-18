@@ -1,10 +1,10 @@
 # swift_python_Make_MLmodel_using_caffemodel
 
-# python code는 이 reposotory 에서
+# How to make `pre-trained model` to `ML model`
+
+### python code는 이 reposotory 에서
 
 https://github.com/proscus0706/MLModelConverter_fromCaffeModel
-
-# How to make `pre-trained model` to `ML model`
 
 # Link
 
