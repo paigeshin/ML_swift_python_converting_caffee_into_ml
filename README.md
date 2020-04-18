@@ -31,7 +31,7 @@ https://github.com/BVLC/caffe/wiki/Model-Zoo
 
 ### Conversion Workflow
 
-Model Source(.Caffe) → xCode → Your App 
+pre-trained model(.caffemodel) -> Model(.mlmodel) → xCode → Your App 
 
 ### What we are going to use
 
