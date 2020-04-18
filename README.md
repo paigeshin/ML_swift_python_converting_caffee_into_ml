@@ -7,6 +7,17 @@
 https://www.notion.so/Python-mlmodel-converter-21320d7b1af2491bab1be1069c944525
 https://www.notion.so/Advanced-ML-9c5b7c737db74d1da6c424c093b58198
 
+# app icon
+
+https://www.freepik.com/
+https://makeappicon.com/
+
+# Model Zoo
+
+https://github.com/BVLC/caffe/wiki/Model-Zoo 
+
+=> 여기서 엄청나게 많은 모델을 제공받을 수 있다.
+
 ### Necessary files to make MLModel which will be used on App Development
 
 - caffemodel (.caffemodel)
